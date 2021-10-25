@@ -1,0 +1,4 @@
+git status查看下状态
+git log查看提交历史
+git reflog 查看命令历史
+git reset --hard commit_id在版本间穿梭
